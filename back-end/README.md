@@ -1,3 +1,2 @@
 # COMP5703-TraderWin
-initial project
-second 
+# This is the root path of back-end project.
