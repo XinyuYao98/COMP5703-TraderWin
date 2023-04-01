@@ -4,18 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c49c91f-51ab-4d37-aa17-c6751fe82f74" name="Changes" comment="4">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp5703traderwin/Comp5703TraderWinApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/comp5703traderwin/Comp5703TraderWinApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/comp5703traderwin/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/java/com/example/comp5703traderwin/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/comp5703traderwin/Comp5703TraderWinApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/src/test/java/com/example/comp5703traderwin/Comp5703TraderWinApplicationTests.java" afterDir="false" />
+    <list default="true" id="6c49c91f-51ab-4d37-aa17-c6751fe82f74" name="Changes" comment="create the front-end package and the back-end package">
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/.umirc.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/assets/time-is-money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/assets/yay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/layouts/Dashboard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/layouts/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/layouts/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/CoinDb.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/FxDb.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/products.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/products.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/register.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/front-end/myapp/typings.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,26 +59,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "spring.configuration.checksum": "1239648165ce59c4fb7c08bba9234dfc",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;1239648165ce59c4fb7c08bba9234dfc&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Programming_Project\Java\Java_Projects\Java_Web\COMP5703-TraderWin\back-end" />
@@ -94,7 +105,9 @@
       <workItem from="1679793748593" duration="10000" />
       <workItem from="1680062544262" duration="575000" />
       <workItem from="1680130696090" duration="21000" />
-      <workItem from="1680140317678" duration="129000" />
+      <workItem from="1680140317678" duration="300000" />
+      <workItem from="1680150422632" duration="8000" />
+      <workItem from="1680325983316" duration="572000" />
     </task>
     <task id="LOCAL-00001" summary="the second test">
       <created>1679742599556</created>
@@ -124,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680062879679</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create the front-end package and the back-end package">
+      <created>1680140536142</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680140536142</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create the front-end package and the back-end package">
+      <created>1680140587551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680140587551</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +172,7 @@
     <MESSAGE value="the second test" />
     <MESSAGE value="3" />
     <MESSAGE value="4" />
-    <option name="LAST_COMMIT_MESSAGE" value="4" />
+    <MESSAGE value="create the front-end package and the back-end package" />
+    <option name="LAST_COMMIT_MESSAGE" value="create the front-end package and the back-end package" />
   </component>
 </project>
