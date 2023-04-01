@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c49c91f-51ab-4d37-aa17-c6751fe82f74" name="Changes" comment="create the front-end package and the back-end package">
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/.npmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/.umirc.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/assets/time-is-money.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/assets/yay.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/layouts/Dashboard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/layouts/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/layouts/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/CoinDb.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/FxDb.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/products.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/products.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/src/pages/register.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front-end/myapp/typings.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front-end/test.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="6c49c91f-51ab-4d37-aa17-c6751fe82f74" name="Changes" comment="update the front-end" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/front-end/myapp" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,26 +36,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;1239648165ce59c4fb7c08bba9234dfc&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "1239648165ce59c4fb7c08bba9234dfc",
+    "ts.external.directory.path": "D:\\Programming_Project\\Java\\Java_Projects\\Java_Web\\COMP5703-TraderWin\\front-end\\myapp\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Programming_Project\Java\Java_Projects\Java_Web\COMP5703-TraderWin\back-end" />
@@ -107,7 +86,7 @@
       <workItem from="1680130696090" duration="21000" />
       <workItem from="1680140317678" duration="300000" />
       <workItem from="1680150422632" duration="8000" />
-      <workItem from="1680325983316" duration="572000" />
+      <workItem from="1680325983316" duration="954000" />
     </task>
     <task id="LOCAL-00001" summary="the second test">
       <created>1679742599556</created>
@@ -151,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680140587551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update the front-end">
+      <created>1680326628562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680326628562</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update the front-end">
+      <created>1680326684351</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680326684351</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +166,7 @@
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="create the front-end package and the back-end package" />
-    <option name="LAST_COMMIT_MESSAGE" value="create the front-end package and the back-end package" />
+    <MESSAGE value="update the front-end" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the front-end" />
   </component>
 </project>
